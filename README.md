@@ -1,5 +1,15 @@
 # 💫 About Me:
-# Hello, World! 👋<br><br>I'm Varun, a passionate full-stack developer with a love for crafting elegant and efficient software solutions. <br>With a strong background in web development, I thrive on solving complex challenges and continuously expanding my skill set.<br><br>## 🔭 Currently Working On<br><br>Exploring the use of LLMs for intelligent chatbots, content generation, and data analysis in full stack projects.<br><br>## 📚 Learning and Growing<br><br>I'm constantly learning and exploring new technologies to stay ahead of the curve.
+# Hello, World! 👋
+
+I'm Varun, a passionate full-stack developer with a love for crafting elegant and efficient software solutions. <br>With a strong background in web development, I thrive on solving complex challenges and continuously expanding my skill set.<br><br>
+
+## 🔭 Currently Working On
+
+Exploring the use of LLMs for intelligent chatbots, content generation, and data analysis in full stack projects.
+
+## 📚 Learning and Growing
+
+I'm constantly learning and exploring new technologies to stay ahead of the curve.
 
 
 ## 🌐 Socials:
